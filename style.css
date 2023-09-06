@@ -4,8 +4,20 @@
   padding: 0;
 }
 
-form {
+button {
+  padding: 0 0.2rem;
+}
+
+p {
+  display: block;
+}
+
+span {
+  font-weight: 600;
+}
+
+.container {
   padding: 3.5rem 2rem;
   display: flex;
-  align-items: center;
+  flex-direction: column;
 }
