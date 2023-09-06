@@ -1,0 +1,11 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+form {
+  padding: 3.5rem 2rem;
+  display: flex;
+  align-items: center;
+}
